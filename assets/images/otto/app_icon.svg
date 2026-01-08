@@ -1,0 +1,36 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rounded square with warm cream -->
+  <rect x="0" y="0" width="512" height="512" rx="100" fill="#FFF9F5"/>
+  
+  <!-- Otter silhouette centered -->
+  <!-- Body -->
+  <ellipse cx="256" cy="320" rx="100" ry="120" fill="#6B9DFC"/>
+  
+  <!-- Head -->
+  <circle cx="256" cy="160" r="90" fill="#6B9DFC"/>
+  
+  <!-- Ears -->
+  <circle cx="190" cy="90" r="30" fill="#6B9DFC"/>
+  <circle cx="322" cy="90" r="30" fill="#6B9DFC"/>
+  
+  <!-- Eyes -->
+  <circle cx="220" cy="145" r="15" fill="#FFFFFF"/>
+  <circle cx="292" cy="145" r="15" fill="#FFFFFF"/>
+  
+  <!-- Eye pupils -->
+  <circle cx="220" cy="145" r="8" fill="#2D3436"/>
+  <circle cx="292" cy="145" r="8" fill="#2D3436"/>
+  
+  <!-- Nose -->
+  <ellipse cx="256" cy="180" rx="12" ry="15" fill="#2D3436"/>
+  
+  <!-- Smile arc -->
+  <path d="M 256 180 Q 240 200 225 190" stroke="#2D3436" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M 256 180 Q 272 200 287 190" stroke="#2D3436" stroke-width="5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Whiskers -->
+  <line x1="140" y1="150" x2="80" y2="140" stroke="#2D3436" stroke-width="4" stroke-linecap="round"/>
+  <line x1="140" y1="175" x2="75" y2="190" stroke="#2D3436" stroke-width="4" stroke-linecap="round"/>
+  <line x1="372" y1="150" x2="432" y2="140" stroke="#2D3436" stroke-width="4" stroke-linecap="round"/>
+  <line x1="372" y1="175" x2="437" y2="190" stroke="#2D3436" stroke-width="4" stroke-linecap="round"/>
+</svg>
